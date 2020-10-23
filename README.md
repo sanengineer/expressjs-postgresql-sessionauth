@@ -2,7 +2,7 @@
 
 ## Monolithic Dashboard With EJS
 
-### Endpoint:
+### Users Endpoint:
 
 #### Register Page
 
