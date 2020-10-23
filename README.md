@@ -1,6 +1,6 @@
 # Create CRUD RestAPI with Expressjs, PostgreSQL, PassportJS - Local Strategy (Session Authorization)
 
-## Monolithic Dashboard With EJS
+## Monolithic Dashboard
 
 ### Users Endpoint:
 
