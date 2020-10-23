@@ -2,6 +2,8 @@
 
 ## Monolith Dashboard With EJS
 
+## API Endpoint
+
 ### Register Page
 
     http://localhost:8000/register
