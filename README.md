@@ -2,16 +2,16 @@
 
 ## Monolith Dashboard With EJS
 
-## Endpoint:
+### Endpoint:
 
-### Register Page
+#### Register Page
 
     http://localhost:8000/register
 
-### Login Page
+#### Login Page
 
     http://localhost:8000/login
 
-### Profile Page
+#### Profile Page
 
     http://localhost:8000/whoami
