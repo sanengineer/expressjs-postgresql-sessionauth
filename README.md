@@ -2,7 +2,7 @@
 
 ## Monolith Dashboard With EJS
 
-## API Endpoint:
+## Endpoint:
 
 ### Register Page
 
